@@ -4,6 +4,7 @@ React App
 Uygulama test adımları şu şekildedir ;
 
 Uygulama dosyaları indirilir.
+Uygulama bağımlılıkları indirilir.
 Terminale "npm start" komutu yazılarak uygulama başlatılır.
 Sağ üstte yer alan "Giriş" linkine basılarak login modal açılır.
 "scorp@hotmail.com" mail adresi ve "scorp123" şifresi ile giriş yapılır.
@@ -16,6 +17,7 @@ Son olarak Adın yazdığı linkin altında yer alan "Çıkış" butonuna basıl
 Application test steps are as follows;
 
 The application files are downloaded.
+Application dependencies are downloaded.
 The application is started by typing the "npm start" command in terminal.
 The login model is opened by clicking the "Login" link at the top right.
 Login with "scorp@hotmail.com" e-mail address and "scorp123" password.
