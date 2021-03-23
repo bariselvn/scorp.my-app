@@ -23,3 +23,33 @@ The contact page is opened by clicking on the "Contact" link on the top right.
 After the necessary communication resources are filled, the relevant information is printed on the console by clicking the "Send" button.
 Using the "Language" link at the top right, the language can be set as English and Turkish.
 Finally, by clicking the "Exit" button under the named link, the exit process is provided.
+
+
+package.json ={
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.6.0",
+    "i18next": "^19.9.2",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-http-backend": "^1.1.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "mobx-react": "^7.1.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.1",
+    "react-fuzzy": "^1.2.0",
+    "react-i18next": "^11.8.10",
+    "react-modal": "^3.12.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-select-search": "^3.0.5",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^1.1.1"
+  },
