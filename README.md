@@ -26,10 +26,6 @@ Finally, by clicking the "Exit" button under the named link, the exit process is
 
 
 package.json ={
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
