@@ -1,0 +1,85 @@
+{
+"Thank": {
+    "1":"Thank"
+},
+"Why":{
+    "1":"Why"
+},
+"Hi":{
+    "1":"Hi"
+},
+"Contact":{
+    "1":"Contact"
+},
+"Home":{
+    "1":"Home"
+},
+"Login":{
+    "1":"Login"
+},
+"Logout":{
+    "1":"Log Out"
+},
+"SignIn":{
+    "1":"Sign In"
+},
+"Email":{
+    "1":"Email address"
+},
+"Password":{
+    "1":"Password"
+},
+"Entermail":{
+    "1":"Enter email"
+},
+"Enterpassword":{
+    "1":"Enter password"
+},
+"Rememberme":{
+    "1":"Remember me"
+},
+"Forgotpassword":{
+    "1":"Forgot password"
+},
+"Fullname":{
+    "1":"Full Name"
+},
+"Enterfullname":{
+    "1":"Enter Fulname"
+},
+"Number":{
+    "1":"Number"
+},
+"Enternumber":{
+    "1":"Enter Number"
+},
+"Address":{
+    "1":"Address"
+},
+"Enteraddress":{
+    "1":"Enter Address"
+},
+"Message":{
+    "1":"Message"
+},
+"Entermessage":{
+    "1":"Enter Message"
+},
+"Send":{
+    "1":"Send"
+},
+"Title":{
+    "1":"Title"
+},
+"Country":{
+    "1":"Select your country"
+},
+"Countrytitle":{
+    "1":"Country"
+},
+"Languages":{
+    "1":"Languages"
+}
+
+
+}

@@ -1,0 +1,85 @@
+
+{
+"Thank" : {
+    "1":"teşekkürler"
+},
+"Why":{
+    "1":"Niye"
+},
+"Hi":{
+    "1":"Merhaba"
+},
+"Contact":{
+    "1":"İletişim"
+},
+"Home":{
+    "1":"Ana Sayfa"
+},
+"Login":{
+    "1":"Giriş Yap"
+},
+"Logout":{
+    "1":"Çıkış Yap"
+},
+"SignIn":{
+    "1":"Oturum Aç"
+},
+"Email":{
+    "1":"Eposta Adresi"
+},
+"Password":{
+    "1":"Şifre"
+},
+"Entermail":{
+    "1":"Mailinizi Giriniz"
+},
+"Enterpassword":{
+    "1":"Şifrenizi Giriniz"
+},
+"Rememberme":{
+    "1":"Beni Hatırla"
+},
+"Forgotpassword":{
+    "1":"Şifremi Unuttum"
+},
+"Fullname":{
+    "1":"Ad Soyad"
+},
+"Enterfullname":{
+    "1":"Ad ve Soyadınızı Giriniz"
+},
+"Number":{
+    "1":"Numara"
+},
+"Enternumber":{
+    "1":"Numaranızı Giriniz"
+},
+"Address":{
+    "1":"Adres"
+},
+"Enteraddress":{
+    "1":"Adresinizi Giriniz"
+},
+"Message":{
+    "1":"Mesaj"
+},
+"Entermessage":{
+    "1":"Mesajı Giriniz"
+},
+"Send":{
+    "1":"Gönder"
+},
+"Title":{
+    "1":"Başlık"
+},
+"Country":{
+    "1":"Ülkenizi seçiniz"
+},
+"Countrytitle":{
+    "1":"Ülke"
+},
+"Languages":{
+    "1":"Diller"
+}
+
+}
