@@ -21,14 +21,13 @@ function LoginForm() {
     function login() {
         userData.map((data, key) => {
             if (data.mail == mail && data.password == password) {
-                console.log("Doğru" + mail);
                 setLoginStatus(true);
                 setFullname(data.fullname)
                 setName(data.fullname)
                 setLogin(false);
                 return;
             } else {
-                console.log("Yanluş");
+                console.log(data.mail+ "   adresi bulunamadı.");
 
             }
 
